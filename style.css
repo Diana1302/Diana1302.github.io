@@ -1,0 +1,21 @@
+  .roșu {
+            color:red;
+        }
+        #primul {
+            color: green;
+        }
+        .artă{
+            display: flex;
+            flex-direction: row; 
+            width: 150px;
+            height: 250px;
+            background-color: yellow;
+        }
+        .actorie {
+            background-color: pink;
+            width: 150px;
+        }
+        .container{
+            display: flex;
+            flex direction: row;
+        }
